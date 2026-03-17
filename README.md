@@ -19,7 +19,7 @@ This library receives market data using a proprietary protocol called DDF. For n
 
 ### Documentation
 
-Complete documentation for this SDK can be accessed here:
+Complete documentation for this SDK can be accessed here: 
 
 * [https://barchart.github.io/marketdata-api-js/#/](https://barchart.github.io/marketdata-api-js/#/)
 
